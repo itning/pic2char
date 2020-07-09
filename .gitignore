@@ -1,3 +1,5 @@
 .idea/
-images/
 images_out/
+images/
+!.gitkeep
+venv/
